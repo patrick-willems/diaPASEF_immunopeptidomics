@@ -1,0 +1,19 @@
+evaluation parameter,value
+precursors within m/z-range [%],99.99
+unique proteins in the library,5066
+unique precursors in the library,19993
+smallest diaPASEF window,12.76
+biggest diaPASEF window,189.0
+average diaPASEF window size,36.48
+No. of covered proteins,4962
+No. of covered precursors,18494
+all proteins covered,97.9%
+all precursors covered,92.5%
+"No. of covered, doubly charged precursors",10511
+all doubly charged precursors covered,98.2%
+"No. of covered, triply charged precursors",3188
+all triply charged precursors covered,77.9%
+"No. of covered, quadruply charged precursors",0
+all quadruply charged precursors covered,0
+"No. of covered, singly charged precursors",4795
+all singly charged precursors covered,92.3%
