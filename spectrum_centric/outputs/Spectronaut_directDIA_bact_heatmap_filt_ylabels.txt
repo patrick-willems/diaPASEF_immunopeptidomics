@@ -1,0 +1,25 @@
+_YTFEVDTRATKTQV_.2	A0A3Q0NHR6	Large ribosomal subunit protein uL23	A0A3Q0NHR6_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	YTFEVDTRATKTQV	False
+_YTFEVDTRATKTQV_.3	A0A3Q0NHR6	Large ribosomal subunit protein uL23	A0A3Q0NHR6_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	YTFEVDTRATKTQV	False
+_EIAIPTLFV_.1	A0A3Q0ND25	Cell surface hydrolase, membrane-bound	A0A3Q0ND25_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	EIAIPTLFV	True
+_VGVPYIVVF_.1	A0A3Q0NHS2	Elongation factor Tu	A0A3Q0NHS2_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	VGVPYIVVF	True
+_EVASWIVQV_.1	A0A3Q0NAW3	Neutral metalloproteinase	A0A3Q0NAW3_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	EVASWIVQV	True
+_ETFFPQKESYV_.2	A0A3Q0NAQ5	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)	A0A3Q0NAQ5_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	ETFFPQKESYV	False
+_EVIGVIAGL_.1	A0A3Q0NEE4	Alkaline shock protein	A0A3Q0NEE4_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	EVIGVIAGL	True
+_EVFDKYFEL_.2	A0A3Q0NEI0	Cell division protein FtsI [Peptidoglycan synthetase] / Transpeptidase, Penicillin binding protein transpeptidase domain	A0A3Q0NEI0_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	EVFDKYFEL	True
+_VAYGRQVYL_.2	A0A3Q0NAV6	Thiol-activated cytolysin	A0A3Q0NAV6_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	VAYGRQVYL	True
+_AFIKIIQLRKNN_.3	A0A3Q0NB12	Actin-assembly inducing protein ActA	A0A3Q0NB12_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	AFIKIIQLRKNN	False
+_KLNDLISRY_.2	A0A3Q0NHX2	Peptidoglycan hydrolase	A0A3Q0NHX2_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	KLNDLISRY	False
+_EIFDVKVAKV_.2	A0A3Q0NHR6	Large ribosomal subunit protein uL23	A0A3Q0NHR6_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	EIFDVKVAKV	True
+_ETINKLIRV_.2	A0A3Q0NEI5	RNA polymerase sigma factor SigA	A0A3Q0NEI5_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	ETINKLIRV	False
+_EVFDKYFELK_.3	A0A3Q0NEI0	Cell division protein FtsI [Peptidoglycan synthetase] / Transpeptidase, Penicillin binding protein transpeptidase domain	A0A3Q0NEI0_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	EVFDKYFELK	False
+_DLFDRAFVV_.2	A0A3Q0NEI0	Cell division protein FtsI [Peptidoglycan synthetase] / Transpeptidase, Penicillin binding protein transpeptidase domain	A0A3Q0NEI0_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	DLFDRAFVV	True
+_FAAPTIASA_.1	A0A3Q0NBW8	Probable endopeptidase p60	A0A3Q0NBW8_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	FAAPTIASA	True
+_ILADIVKNV_.2	A0A3Q0NGJ0	Manganese ABC transporter, periplasmic-binding protein SitA	A0A3Q0NGJ0_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	ILADIVKNV	True
+_SINM[Oxidation (M)]PSLPV_.1	A0A3Q0NB12	Actin-assembly inducing protein ActA	A0A3Q0NB12_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	SINMPSLPV	True
+_HLPEFTNEV_.2	A0A3Q0NBH6	Internalin B (GW modules)	A0A3Q0NBH6_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	HLPEFTNEV	True
+_FVFDNKPVKV_.2	A0A3Q0NAM8	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)	A0A3Q0NAM8_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	FVFDNKPVKV	False
+_YKLGLAIHY_.2	A0A3Q0NAV2	Phospholipase C	A0A3Q0NAV2_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	YKLGLAIHY	True
+_EVERPSLGV_.2	A0A3Q0NB40	Serine protease, DegP/HtrA, do-like	A0A3Q0NB40_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	EVERPSLGV	False
+_TVPGIEVIVSA_.1	A0A3Q0NHX2	Peptidoglycan hydrolase	A0A3Q0NHX2_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	TVPGIEVIVSA	True
+_EVFDKYFELK_.2	A0A3Q0NEI0	Cell division protein FtsI [Peptidoglycan synthetase] / Transpeptidase, Penicillin binding protein transpeptidase domain	A0A3Q0NEI0_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	EVFDKYFELK	False
+_FDKYFEL_.1	A0A3Q0NEI0	Cell division protein FtsI [Peptidoglycan synthetase] / Transpeptidase, Penicillin binding protein transpeptidase domain	A0A3Q0NEI0_LISMG	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	FDKYFEL	True
